@@ -4,10 +4,6 @@ author: "Matthew Benningfield"
 output: pdf_document
 ---
 
-```{r, include = FALSE}
-setwd("C:/Users/mattb/Desktop/Init/IUB/WorkIUB/SP18-S301-TA/CaseStudy18DataSets/")
-```
-
 ```{r}
 library(ggplot2) # Visualization
 library(data.table) # Manipulation
